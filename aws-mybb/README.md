@@ -1,1 +1,0 @@
-# Hosting MyBB on AWS
